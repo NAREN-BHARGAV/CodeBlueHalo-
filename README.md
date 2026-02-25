@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Top%205-HACK--O--HERTZ%20'26-FFD700?style=for-the-badge&logo=hackaday" />
-  <img src="https://img.shields.io/badge/Prize-%E2%82%B91000%20Motivation%20Award-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rank-Top%205-4CAF50?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
 </p>
 
@@ -51,7 +51,7 @@ Follow these steps to set up the project locally.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/CodeBlueHalo.git
+git clone https://github.com/CodyRohith7/CodeBlueHalo.git
 cd CodeBlueHalo
 ```
 
