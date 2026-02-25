@@ -87,10 +87,10 @@ We laughed, we coded through the night, and ultimately brought home a **Motivati
 ## 🤝 The Team
 
 Huge shoutout to the rockstar developers and engineers who made this happen:
-- **[Your Name]** - *AI/ML & Architecture*
-- **Rohith G** - *Software & Integration*
-- **Naren Bhargav VS** - *Hardware & Firmware*
-- **Manoj R** - *Frontend & UX*
+- **Rohith G** (Team Leader)
+- **Koushik C**
+- **Naren Bhargav V S**
+- **Manoj R**
 
 *We conquered new tools, executed under crunch time, and proved that technology mixed with ambition can create real-world impact!*
 
